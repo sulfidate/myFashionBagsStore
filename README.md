@@ -36,19 +36,22 @@ Welcome to my eCommerce project of building a shopping cart application from scr
 
 ## Usage
 - ES Modules in Node
-Use of ECMAScript Modules in the backend in this project.
+
+  Use of ECMAScript Modules in the backend in this project.
+
 - Env Variables
-Create .env file in the root:
+
+  Create .env file in the root:
 ```
-NODE_ENV = development
-PORT = 5000
-MONGO_URI = your mongodb uri
-JWT_SECRET = 'abc123'
-PAYPAL_CLIENT_ID = your paypal client id
+    NODE_ENV = development
+    PORT = 5000
+    MONGO_URI = your mongodb uri
+    JWT_SECRET = 'abc123'
+    PAYPAL_CLIENT_ID = your paypal client id
 ```
 - Install Dependencies (frontend & backend)
 ```
-npm install
-cd frontend
-npm install
+    npm install
+    cd frontend
+    npm install
 ```

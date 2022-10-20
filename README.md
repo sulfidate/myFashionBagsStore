@@ -1,6 +1,6 @@
 # myFashionBagsStore >> Documentation
 
-Welcome to my eCommerce project of building an shopping cart application from scratch using the MERN stack (MongoDB, Express, React/Redux, Node) to deepen my experience with the MERN tools.
+Welcome to my eCommerce project of building a shopping cart application from scratch using the MERN stack (MongoDB, Express, React/Redux, Node)
 
 The << Fashion Bags Store >> is a real project that I am currently implementing for one of my clients.
 
@@ -26,3 +26,4 @@ The << Fashion Bags Store >> is a real project that I am currently implementing 
 - Integrating the PayPal API
 - Environment variables
 - Project deployment
+

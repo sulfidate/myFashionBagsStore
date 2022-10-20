@@ -30,4 +30,30 @@ The << Fashion Bags Store >> is a real project that I am currently implementing 
 - Environment variables
 - Project deployment
 
+### Ressources & Environment
+- Code Editor VSCode v1.71.2
+- Node.js v18.10.0
+- git v2.37.3
+- postman v9.31.21
 
+## Usage
+### ES Modules in Node
+Use of ECMAScript Modules in the backend in this project.
+### Env Variables
+Create .env file in the root:
+```
+NODE_ENV = development
+PORT = 5000
+MONGO_URI = your mongodb uri
+JWT_SECRET = 'abc123'
+PAYPAL_CLIENT_ID = your paypal client id
+```
+### Install Dependencies (frontend & backend)
+
+```
+npm install
+cd frontend
+npm install
+```
+
+```

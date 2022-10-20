@@ -1,10 +1,8 @@
-# myFashionBagsStore >> Documentation
+# << myFashionBagsStore >> Documentation
 
-Welcome to my eCommerce project of building a shopping cart application from scratch using the MERN stack (MongoDB, Express, React/Redux, Node)
+Welcome to my eCommerce project of building a shopping cart application from scratch using the MERN stack (MongoDB, Express, React/Redux, Node). This project is a real-world project that I am currently implementing for one of my clients.
 
-The << Fashion Bags Store >> is a real project that I am currently implementing for one of my clients.
-
-### Functionality
+## Functionality
 - Full featured shopping cart with PayPal & credit/debit card payments
 - Checkout process (shipping, payment method, etc)
 - Admin area to manage customers, products & orders
@@ -13,7 +11,7 @@ The << Fashion Bags Store >> is a real project that I am currently implementing 
 - Product search, top products carousel, pagination & more
 - Custom database seeder script
 
-### Realization with the following tools
+## Realization with the following tools
 - React with Functional Components & Hooks
 - React router
 - React-Bootstrap UI library
@@ -30,16 +28,16 @@ The << Fashion Bags Store >> is a real project that I am currently implementing 
 - Environment variables
 - Project deployment
 
-### Ressources & Environment
+## Ressources & Environment
 - Code Editor VSCode v1.71.2
 - Node.js v18.10.0
 - git v2.37.3
 - postman v9.31.21
 
 ## Usage
-### ES Modules in Node
+- ES Modules in Node
 Use of ECMAScript Modules in the backend in this project.
-### Env Variables
+- Env Variables
 Create .env file in the root:
 ```
 NODE_ENV = development
@@ -48,12 +46,9 @@ MONGO_URI = your mongodb uri
 JWT_SECRET = 'abc123'
 PAYPAL_CLIENT_ID = your paypal client id
 ```
-### Install Dependencies (frontend & backend)
-
+- Install Dependencies (frontend & backend)
 ```
 npm install
 cd frontend
 npm install
-```
-
 ```

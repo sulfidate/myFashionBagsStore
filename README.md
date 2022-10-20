@@ -5,10 +5,13 @@ Welcome to my eCommerce project of building a shopping cart application from scr
 The << Fashion Bags Store >> is a real project that I am currently implementing for one of my clients.
 
 ### Functionality
-- Full featured shopping cart with PayPal & credit/debit payments
+- Full featured shopping cart with PayPal & credit/debit card payments
+- Checkout process (shipping, payment method, etc)
 - Admin area to manage customers, products & orders
+- User profile with orders
 - Product rating & review system
-- Product search, carousel, pagination & more
+- Product search, top products carousel, pagination & more
+- Custom database seeder script
 
 ### Realization with the following tools
 - React with Functional Components & Hooks
@@ -26,4 +29,5 @@ The << Fashion Bags Store >> is a real project that I am currently implementing 
 - Integrating the PayPal API
 - Environment variables
 - Project deployment
+
 
